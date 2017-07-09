@@ -343,7 +343,6 @@ Script for grab stars from github: https://github.com/Luchanso/task-list/blob/ma
 * [google/material-design-lite](https://github.com/google/material-design-lite) Material Design Components in HTML/CSS/JS
 * [zachfitz/Ionic-Material](https://github.com/zachfitz/Ionic-Material) Seamless Material Design theme for Ionic
 * [davidwood/node-password-hash](https://github.com/davidwood/node-password-hash) Password hashing and verification for node.js
-* [leibovic/stopwatch](https://github.com/leibovic/stopwatch) A simple stopwatch app
 * [wooorm/retext](https://github.com/wooorm/retext) Natural language processor powered by plugins
 * [octalmage/robotjs](https://github.com/octalmage/robotjs) Node.js Desktop Automation. 
 * [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) :zap: Delightful Node.js packages and resources
