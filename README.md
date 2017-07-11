@@ -10,6 +10,7 @@
 * Портировать Brainwork Shop на React
 * Написать на React Native [игру](https://www.uplabs.com/posts/codepen-react-memory-game) для тренеровки памяти (числа)
 * Дописать [таймер помидорки](https://github.com/Luchanso/iq-stopwatch)
+* Retet - библиотека ивентов для React `export default listen(eventHandler)(MyComponent)`
 
 ---
 
