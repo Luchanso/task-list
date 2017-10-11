@@ -5,7 +5,6 @@
 
 Проекты:
 * [Таймеры для производства](https://github.com/Luchanso/bottleneck-app)
-* [1year-iqoption](https://github.com/Luchanso/1year-iqoption)
 * Приложение (React Native), которое помогает накопить с кешбеков и процентов
 * Портировать Brainwork Shop на React
 * Написать на React Native [игру](https://www.uplabs.com/posts/codepen-react-memory-game) для тренеровки памяти (числа)
